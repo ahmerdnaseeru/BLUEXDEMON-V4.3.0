@@ -21,7 +21,7 @@ global.antiSpam = false
 global.sign = "☃️❄️"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
-global.bankname = "BLUE"
+global.bankname = "AHMAD"
 global.accnumber = "8064142171"
 global.language = "en"
 global.sessionName = "session"
@@ -57,7 +57,7 @@ global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
 global.packName = `𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍`
-global.authorName = "BLUE DEMON"
+global.authorName = "If you knew he wasn't the one, you wouldn't respond to my message, right?" DEMON"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
